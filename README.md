@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=30&pause=1000&color=F73550&background=6519FF00&vCenter=true&random=false&width=435&lines=Spencer+Wilson's+Portfollio)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="[https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code](https://github.com/Swilsondi)" alt="Users" title="Github">
+  <a href="(https://github.com/Swilsondi)" alt="Users" title="Github">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
   <a href="[https://discord.gg/fPrdqh3Zfu](https://www.linkedin.com/in/spencerwilsontech/)" alt="Linkedin" title="Linkedin Spencer Wilson">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
@@ -16,7 +16,7 @@ I'm a front-end developer, musician, and creator building my version of the digi
 
 
 ## 🌐 Socials:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Spencer Wilson) 
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Spencer Wilson) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

@@ -1,4 +1,4 @@
-# Spencer-Wilson
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=30&pause=1000&color=F73550&background=6519FF00&vCenter=true&random=false&width=435&lines=Spencer+Wilson's+Portfollio)](https://git.io/typing-svg)
 PORTFOLLIO
 
 **`Digital Craftsman (Developer/Musician/Creator)`**
